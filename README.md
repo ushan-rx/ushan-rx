@@ -9,10 +9,11 @@
 ### 🚀 About Me
 
 - I'm a passionate developer specializing in building full-stack web applications.  
-- I love solving problems, create new things through code and  
-  contributing to exciting open-source projects.
+<!-- - I love solving problems, create new things through code and  
+  contributing to exciting open-source projects. -->
 <br/>
- 
+
+- 🎓 I'm currently pursuing an IT degree.
 - 🌱 I’m currently learning **GO lang, microservices, Docker, Kubernetes**.
 <!-- - 💼 I’m currently working on **[MoneyBook](GitHub project link)** -->
 - 💬 Ask me about **OOP, DSA, Java, Spring Boot, MERN stack, Typescript, sql, python**.
