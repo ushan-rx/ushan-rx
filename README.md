@@ -1,7 +1,7 @@
 ###
 <h1 align="center"> Hi there, I'm Ushan Senarathna! 👋👋</h1>  
 
-<img align="right" alt ="coding" width = "320" height="350" src="https://github.com/ushan-rx/ushan-rx/blob/main/boy_coding_rounded.png">
+<img align="right" alt ="coding" width = "300" height="300" src="https://github.com/ushan-rx/ushan-rx/blob/main/boy_coding_rounded.png">
 
 ### Welcome to my GitHub profile!  
 ![Profile Views](https://komarev.com/ghpvc/?username=ushan-rx&color=blue)  
