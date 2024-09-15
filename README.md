@@ -1,7 +1,7 @@
 ###
 <h1 align="center"> Hi there, I'm Ushan Senarathna! 👋👋</h1>  
 
-<img align="right" alt ="coding" width = "300" height="300" src="https://github.com/ushan-rx/ushan-rx/blob/main/boy_coding_rounded.png">
+<img align="right" alt ="coding" width = "350" height="350" src="https://github.com/ushan-rx/ushan-rx/blob/main/in_space.png">
 
 ### Welcome to my GitHub profile!  
 ![Profile Views](https://komarev.com/ghpvc/?username=ushan-rx&color=blue)  
@@ -30,9 +30,9 @@
 
 <p align="left">
 <!-- <a href="https://twitter.com/ushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ushan" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/ushan-senarathna-898220239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaweesha-marasinghe-836684246" height="30" width="40" /></a>
-<a href="https://facebook.com/ushan.rx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaweemr" height="30" width="40" /></a>
-<a href="https://instagram.com/__ushan_rx__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaweesha_mr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ushan-senarathna-898220239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ushan-senarathna-898220239" height="30" width="40" /></a>
+<a href="https://facebook.com/ushan.rx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ushan_rx" height="30" width="40" /></a>
+<a href="https://instagram.com/__ushan_rx__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ushan_rx" height="30" width="40" /></a>
 </p>
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
