@@ -16,7 +16,7 @@
 - 🎓 I'm currently pursuing an IT degree.
 - 🌱 I’m currently learning **GO lang, microservices, Docker, Kubernetes**.
 <!-- - 💼 I’m currently working on **[MoneyBook](GitHub project link)** -->
-- 💬 Ask me about **OOP, DSA, Java, Spring Boot, MERN stack, Typescript, SQL, noSQL, python**.
+- 💬 Ask me about **OOP, DSA, Java, Spring Boot, MERN stack, Typescript, SQL, noSQL**.
 - 💡 Fun fact: I'm a perfectionist in disguise 🤫
 ---
 ### 💻 My Languages & Tools  
