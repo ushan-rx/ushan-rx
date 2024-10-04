@@ -7,8 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ushan-rx&color=blue)  
   
 ### 🚀 About Me
-
-- I'm a passionate developer specializing in building full-stack web applications.  
+I'm a passionate developer specializing in building full-stack web applications.  
 <!-- - I love solving problems, create new things through code and  
   contributing to exciting open-source projects. -->
 <br/>
