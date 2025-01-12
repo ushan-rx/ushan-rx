@@ -16,7 +16,9 @@ I'm a passionate developer specializing in building full-stack web applications.
 - 🌱 I’m currently learning **GO lang, microservices, Docker, Kubernetes**.
 <!-- - 💼 I’m currently working on **[MoneyBook](GitHub project link)** -->
 - 💬 Ask me about **OOP, DSA, Java, Spring Boot, MERN stack, Typescript, SQL, noSQL**.
+ <!-- -
 - 💡 Fun fact: I'm a perfectionist in disguise 🤫
+-->
 ---
 ### 💻 My Languages & Tools  
 
