@@ -38,12 +38,12 @@ I'm a passionate developer specializing in building full-stack web applications.
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
-<!-- 
+
 ---   
  [![trophy](https://github-profile-trophy.vercel.app/?username=ushan-rx&theme=chalk)](https://github.com/ushan-rx/github-profile-trophy)  
 
 ---
--->
+
 
  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ushan-rx&theme=tokyonight)
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ushan-rx&show_icons=true&theme=tokyonight) -->
