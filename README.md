@@ -12,9 +12,9 @@ I'm a passionate developer specializing in building full-stack web applications.
   contributing to exciting open-source projects. -->
 <br/>
 
-- 🎓 I'm currently pursuing an IT degree.
-- 🌱 I’m currently learning **GO lang, microservices, Docker, Kubernetes**.
-<!-- - 💼 I’m currently working on **[MoneyBook](GitHub project link)** -->
+- 🎓 I'm currently pursuing a Software Engineering degree.
+- 🌱 I’m currently learning **GO lang, Distributed systems, Kubernetes**.
+- 💼 I’m currently working on **[AidSphere](https://github.com/AidSphere)** 
 - 💬 Ask me about **OOP, DSA, Java, Spring Boot, MERN stack, Typescript, SQL, noSQL**.
  <!-- -
 - 💡 Fun fact: I'm a perfectionist in disguise 🤫
@@ -52,7 +52,6 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 
 <!--
-**ushan-rx/ushan-rx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
